@@ -2,24 +2,24 @@
     "latest": "1.73.x",
     "versions": {
         "1.75.x": {
-            "arm64-v8a":   { "MV": "N/A", "AM": "N/A", "MP": "N/A" },
-            "armeabi-v7a": { "MV": "N/A", "AM": "N/A", "MP": "N/A" },
-            "x86_64":      { "MV": "N/A", "AM": "N/A", "MP": "N/A" }
+            "arm64-v8a":   { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" },
+            "armeabi-v7a": { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" },
+            "x86_64":      { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" }
         },
         "1.74.x": {
-            "arm64-v8a":   { "MV": "N/A", "AM": "N/A", "MP": "N/A" },
-            "armeabi-v7a": { "MV": "N/A", "AM": "N/A", "MP": "N/A" },
-            "x86_64":      { "MV": "N/A", "AM": "N/A", "MP": "N/A" }
+            "arm64-v8a":   { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" },
+            "armeabi-v7a": { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" },
+            "x86_64":      { "Tunes": "N/A", "Mastery": "N/A", "Parts": "N/A" }
         },
         "1.73.x": {
-            "arm64-v8a":   { "MV": "0x2004B08", "AM": "0x20048F8", "MP": "0x2006738" },
-            "armeabi-v7a": { "MV": "0x18EFF8C", "AM": "0x18EFE84", "MP": "0x18F0DA4" },
-            "x86_64":      { "MV": "0x20603D8", "AM": "0x20601C8", "MP": "0x2062008" }
+            "arm64-v8a":   { "Tunes": "0x2004B08", "Mastery": "0x20048F8", "Parts": "0x2006738" },
+            "armeabi-v7a": { "Tunes": "0x18EFF8C", "Mastery": "0x18EFE84", "Parts": "0x18F0DA4" },
+            "x86_64":      { "Tunes": "0x20603D8", "Mastery": "0x20601C8", "Parts": "0x2062008" }
         },
         "1.72.x": {
-            "arm64-v8a":   { "MV": "0x1ED3970", "AM": "0x1ED3760", "MP": "0x1ED55A0" },
-            "armeabi-v7a": { "MV": "0x17E9694", "AM": "0x17E958C", "MP": "0x17EA4AC" },
-            "x86_64":      { "MV": "0x1F2D250", "AM": "0x1F2D040", "MP": "0x1F2EE80" }
+            "arm64-v8a":   { "Tunes": "0x1ED3970", "Mastery": "0x1ED3760", "Parts": "0x1ED55A0" },
+            "armeabi-v7a": { "Tunes": "0x17E9694", "Mastery": "0x17E958C", "Parts": "0x17EA4AC" },
+            "x86_64":      { "Tunes": "0x1F2D250", "Mastery": "0x1F2D040", "Parts": "0x1F2EE80" }
         }
     }
 }
